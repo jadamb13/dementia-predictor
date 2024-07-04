@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser Dementia_Predictor.ipynb
+web: voila --port=$PORT --no-browser --Voila.ip=0.0.0.0 Dementia_Predictor.ipynb
