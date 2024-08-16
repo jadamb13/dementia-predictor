@@ -7,8 +7,8 @@ prototype, and post-implementation report for a CS Capstone project.
 ### Purpose and Overview
 
 #### Problem Statement
-Currently, 81% of early dementia diagnoses are missed and 67% of all dementia diagnoses at the PCP 
-level. Research indicates this is due to many factors — some of which included time constraints 
+Currently, two-thirds of all dementia and 91% of early dementia is missed in the primary care setting. 
+(Parmar et al., 2014) Research indicates this is due to many factors — some of which included time constraints 
 during PCP evaluations, lack of training and knowledge about dementia, and decreased confidence in 
 identifying symptoms of dementia by physicians. Current diagnosis typically requires referral to a 
 specialist for additional costly, invasive, or stigmatized testing and further delays diagnosis. 
@@ -30,3 +30,10 @@ presence of the APOE_ε4 gene variant associated with dementia — as they could
 specialist testing. Comments on other omitted features are provided in the Dementia_Predictor jupyter notebook. 
 
 ### Project Structure
+
+
+### Sources
+
+Parmar, J., Dobbs, B., McKay, R., Kirwan, C., Cooper, T., Marin, A., & Gupta, N. (2014, May 1). Diagnosis and 
+management of dementia in primary care. PubMed Central (PMC). Retrieved June 24, 2024, 
+from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4020652/
