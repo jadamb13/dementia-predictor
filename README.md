@@ -28,8 +28,14 @@ prototype, and post-implementation report for a CS Capstone project.
 >presence of the `APOE_ε4` gene variant associated with dementia — as they could only be obtained with additional 
 >specialist testing. Comments on other omitted features are provided in the `Dementia_Predictor` jupyter notebook. 
 
-### Project Structure
+### Project Files
 
+>The only files necessary to make use of the prediction model are `Dementia_Predictor.ipynb` and `dementia_patients_health_data.csv`, 
+>although the dataset can be obtained directly from Kaggle.com. Other files, such as `Procfile`, `requirements.txt`, and 
+>`runtime.txt` were necessary only for deploying the prototype using Heroku and Voila to demonstrate model functionality — 
+>hosted at: https://dementia-predictor-8c337a70ba8c.herokuapp.com/
+>
+>More information can be found about the methods used to deploy and host here: https://pythonforundergradengineers.com/deploy-jupyter-notebook-voila-heroku.html
 
 ### Sources
 
