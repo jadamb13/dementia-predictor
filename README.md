@@ -4,6 +4,8 @@ a data product into existing CRM software used by primary care provider (PCP) cl
 of the project was to address a business need using machine learning and present the project proposal, 
 prototype, and post-implementation report for a CS Capstone project. 
 
+Developed and deployed using Scikit-learn, Pandas, Seaborn, NumPy, Matplotlib, IPyWidgets, Heroku, and Voila. 
+
 ### Purpose and Overview
 
 >#### Problem Statement
@@ -21,7 +23,7 @@ prototype, and post-implementation report for a CS Capstone project.
 >receive treatment and prepare for the future. 
 
 >#### Dataset  
->The model was trained using the following dataset from Kaggle.com: https://www.kaggle.com/datasets/kaggler2412/dementia-patient-health-and-prescriptions-dataset 
+>The model was trained using the following dataset from Kaggle.com: https://www.kaggle.com/datasets/kaggler2412/dementia-patient-health-and-prescriptions-dataset. 
 >It has a 9.42/10 usability rating and was provided with an Apache 2.0 license. 
 >
 >For the goals and scope of this project, some features were not used in model training — such as `MRI_Delay` and 
@@ -33,7 +35,15 @@ prototype, and post-implementation report for a CS Capstone project.
 >The only files necessary to make use of the prediction model are `Dementia_Predictor.ipynb` and `dementia_patients_health_data.csv`, 
 >although the dataset can be obtained directly from Kaggle.com. Other files, such as `Procfile`, `requirements.txt`, and 
 >`runtime.txt` were necessary only for deploying the prototype using Heroku and Voila to demonstrate model functionality — 
->hosted at: https://dementia-predictor-8c337a70ba8c.herokuapp.com/
+>hosted at: https://dementia-predictor-8c337a70ba8c.herokuapp.com/.
+
+### Model Development and Evaluation
+
+>#### Exploratory Data Analysis (EDA) and Preprocessing 
+
+>#### Training and Testing 
+
+>#### Evaluation 
 
 ### Sources
 
