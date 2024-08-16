@@ -9,8 +9,8 @@ Developed and deployed using Scikit-learn, Pandas, Seaborn, NumPy, Matplotlib, I
 ### Purpose and Overview
 
 >#### Problem Statement
->Currently, two-thirds of all dementia and 91% of early dementia is missed in the primary care setting. 
->(Parmar et al., 2014) Research indicates this is due to many factors — some of which included time constraints 
+>Currently, two-thirds of all dementia and 91% of early dementia is missed in the primary care setting 
+>(Parmar et al., 2014). Research indicates this is due to many factors — some of which included time constraints 
 >during PCP evaluations, lack of training and knowledge about dementia, and low physician confidence in identifying 
 >symptoms of dementia. Current diagnosis typically requires referral to a specialist for additional costly, 
 >invasive, or stigmatized testing and further delays diagnosis. 
