@@ -34,7 +34,7 @@ Developed and deployed using Scikit-learn, Pandas, Seaborn, NumPy, Matplotlib, I
 
 >The only files necessary to make use of the prediction model are `Dementia_Predictor.ipynb` and `dementia_patients_health_data.csv`, 
 >although the dataset can be obtained directly from Kaggle.com. Other files, such as `Procfile`, `requirements.txt`, and 
->`runtime.txt` were necessary only for deploying the prototype using Heroku and Voila to demonstrate model functionality — 
+>`runtime.txt` are necessary only for deploying the prototype using Heroku and Voila to demonstrate model functionality — 
 >hosted at: https://dementia-predictor-8c337a70ba8c.herokuapp.com/.
 
 ### Model Development and Evaluation
