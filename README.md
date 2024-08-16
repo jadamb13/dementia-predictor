@@ -19,8 +19,8 @@ Developed and deployed using Scikit-learn, Pandas, Seaborn, NumPy, Matplotlib, I
 >The logistic regression ML model was developed to automate dementia pre-screening to assist physicians with 
 >decision-making, allocation of resources, and to target treatment and further evaluation to those most at risk. 
 >With the insight to focus attention and evaluations, diagnosis rates at the PCP level will increase — reducing 
->the need for specialist referrals and additional testing, and improving early diagnosis rates so patients can 
->receive treatment and prepare for the future. 
+>the need for specialist referrals and additional testing and improving early diagnosis rates so patients can 
+>receive timely treatment and prepare for the future. 
 
 >#### Dataset  
 >The model was trained using the following dataset from Kaggle.com: https://www.kaggle.com/datasets/kaggler2412/dementia-patient-health-and-prescriptions-dataset. 
