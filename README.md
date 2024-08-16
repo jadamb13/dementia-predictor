@@ -24,8 +24,8 @@ prototype, and post-implementation report for a CS Capstone project.
 >The model was trained using the following dataset from Kaggle.com: https://www.kaggle.com/datasets/kaggler2412/dementia-patient-health-and-prescriptions-dataset 
 >It has a 9.42/10 usability rating and was provided with an Apache 2.0 license. 
 >
->For the goals and scope of this project, some features were not used in model training — such as MRI_Delay and 
->presence of the APOE_ε4 gene variant associated with dementia — as they could only be obtained with additional 
+>For the goals and scope of this project, some features were not used in model training — such as `MRI_Delay` and 
+>presence of the `APOE_ε4` gene variant associated with dementia — as they could only be obtained with additional 
 >specialist testing. Comments on other omitted features are provided in the Dementia_Predictor jupyter notebook. 
 
 ### Project Structure
