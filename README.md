@@ -1,4 +1,4 @@
-## Dementia Prediction Model (Logistic Regression)
+## Dementia Prediction Model — Logistic Regression
 This dementia prediction model was developed as a prototype for a project proposal to integrate 
 a data product into existing CRM software used by primary care provider (PCP) clients. The goal 
 of the project was to address a business need using machine learning and present the project proposal, 
